@@ -101,7 +101,7 @@
     "pubsub-js": "^1.9.5",
     "regenerator-runtime": "^0.14.1",
     "resolve-url-loader": "^5.0.0",
-    "sanitize-html": "^2.17.7",
+    "sanitize-html": "^2.18.0",
     "sass": "^1.104.1",
     "sass-loader": "^17.0.1",
     "sockette": "^2.0.6",
